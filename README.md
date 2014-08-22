@@ -1,2 +1,2 @@
-github.tuace.com
+tuace.com
 ================
