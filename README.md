@@ -1,2 +1,2 @@
-tuace.github.io
+tuace
 ===============
